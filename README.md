@@ -3,6 +3,7 @@ LearnEnglish
 
 To learn English at ordinary times
 
+![English](http://www.hrexam.com/methods1.htm)
 
 经典爱情26个字母	        剑桥少儿英语学习系统介绍         
 高考英语考前辅导	      英语词库大全       
