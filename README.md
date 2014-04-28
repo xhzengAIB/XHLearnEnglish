@@ -1,6 +1,6 @@
 LearnEnglish
 ============
-
+![image](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/MessageDisplayKit.gif)
 ![image](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/MessageTableViewBug.gif)
 
 
