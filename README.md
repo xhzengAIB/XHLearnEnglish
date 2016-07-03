@@ -8,3 +8,7 @@ LearnEnglish
 To learn English at ordinary times
 
 ![English](http://www.hrexam.com/methods1.htm)
+
+
+Issue
+下载[Licecap](http://www.cockos.com/licecap/)，把你的疑问Cap下来，记得配上你简要的文字说明哟！
