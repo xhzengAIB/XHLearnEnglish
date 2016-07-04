@@ -12,9 +12,7 @@ To learn English at ordinary times
 
 组件要求
 ============
-* iPhone4/5/6/6+/iPad，Portrait
 * iOS 6.0+
-* Xcode6 or later
 
 特性
 ============
@@ -28,10 +26,9 @@ pod install
 ```
 
 如何使用
+============
 ```
-#import "XHMessageTableViewController.h"
-XHMessageTableViewController *messageTableViewController = [[XHMessageTableViewController alloc] init];
-[self.navigationController pushViewController:messageTableViewController animated:YES];
+xxxx
 ```
 
 有疑问？提Issue
